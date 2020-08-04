@@ -132,4 +132,6 @@ else {
     equal = false;
 }
 
-console.log(`The product is ${product} The quotient is ${quotient} The sum is ${sum} and equality is ${equal}`)
+console.log(`The product is ${product} The quotient is ${quotient} The sum is ${sum} and equality is ${equal}`);
+
+console.log("This is for changes");
